@@ -5,6 +5,7 @@ ruby '2.0.0'
 gem 'puma'
 gem 'rails', '4.0.0'
 gem 'bootstrap-sass'
+gem 'bcrypt-ruby' ,'~>3.0.0'
 
 group :development, :test do
   gem 'sqlite3', '1.3.7'
